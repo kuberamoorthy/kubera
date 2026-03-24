@@ -1,2 +1,0 @@
-# kubera
-mini project
